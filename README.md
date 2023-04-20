@@ -3,9 +3,10 @@ Current Weather report  of a City, built using NodeJs
 
 
 Here I had taken city = Delhi.
+
 https://api.openweathermap.org/data/2.5/weather?lat=28.6667&lon=77.2167&appid=fda8d6b6dfc94d19780b6b9b828e5f61
 
-To run the project on your server, create a apikey of https://api.openweathermap.org
+To run the project on your server, create a apikey of https://api.openweathermap.org.
 Pick any city you want.
 Change the lat and lon value of the picked city.
 
